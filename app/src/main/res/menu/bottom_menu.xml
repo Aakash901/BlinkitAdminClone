@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homeFragment"
+        android:icon="@drawable/baseline_add_home_24"
+        android:title="Home"/>
+    <item android:id="@+id/addProductFragment"
+        android:icon="@drawable/baseline_add_circle_24"
+        android:title="Add Item"/>
+    <item android:id="@+id/orderFragment"
+        android:icon="@drawable/order_check"
+        android:title="Order"/>
+
+</menu>
